@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://first-fullstack-2vbl.onrender.com/api/users"; // Correct backend URL
+const API_URL = "https://first-fullstack-k5sr.onrender.com/api/users"; // Correct backend URL
 
 export const login = async (email, password) => {
   try {
