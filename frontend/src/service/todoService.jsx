@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = "https://first-fullstack-2vbl.onrender.com/api/todos";
+const API_URL = "https://first-fullstack-k5sr.onrender.com/api/todos";
 
 export const getTodos = async (token) => {
   return await axios.get(`${API_URL}/`, {
