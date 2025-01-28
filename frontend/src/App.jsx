@@ -15,7 +15,7 @@ const App = () => {
           <Route path="/" element={<Home />} />
           <Route path="/signup" element={<Signup />} />
           <Route
-            path="https://first-full-stack-virenkumar.vercel.app/login"
+            path="/first-full-stack-virenkumar.vercel.app/login"
             element={<Login />}
           />
           <Route element={<ProtectedRoute />}>
