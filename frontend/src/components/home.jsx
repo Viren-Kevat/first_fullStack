@@ -26,40 +26,8 @@ const Home = () => {
           important deadlines with our intuitive task management system.
         </p>
       </div>
-      <div className="features-section">
-        <h2 className="features-title">Features</h2>
-        <ul className="features-list">
-          <li className="feature-item">
-            <strong>User Authentication:</strong> Secure login and signup
-            functionality to protect user data.
-          </li>
-          <li className="feature-item">
-            <strong>Backend with Express.js:</strong> Robust backend built with
-            Express.js for handling server-side logic.
-          </li>
-          <li className="feature-item">
-            <strong>Database with MongoDB:</strong> Efficient data storage and
-            retrieval using MongoDB.
-          </li>
-          <li className="feature-item">
-            <strong>Frontend with React.js:</strong> Interactive and dynamic
-            user interface built with React.js.
-          </li>
-          <li className="feature-item">
-            <strong>Data Security:</strong> Ensure your data is safe with our
-            robust security measures.
-          </li>
-          <li className="feature-item">
-            <strong>Privacy Protection:</strong> We prioritize your privacy and
-            ensure your data is protected.
-          </li>
+      
 
-          <li className="feature-item">
-            <strong>Responsive Design:</strong> Access the application on any
-            device with a responsive and user-friendly interface.
-          </li>
-        </ul>
-      </div>
       <footer className="home-footer">
         <p>
           Developer &copy; <strong>Virenkumar Vijay Kevat</strong>{" "}
